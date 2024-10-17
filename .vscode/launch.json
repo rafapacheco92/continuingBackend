@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TesteProvaApplication<testeProva>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.testeProva.TesteProvaApplication",
+            "projectName": "testeProva",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
